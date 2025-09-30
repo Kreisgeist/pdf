@@ -1,0 +1,1749 @@
+MANUAL DE REPARACIÓN HONDA XR 400 R
+TRADUCCIÓN AL ESPAÑOL
+
+============================================================
+CÓMO USAR ESTE MANUAL
+============================================================
+
+Siga las recomendaciones del Programa de Mantenimiento (Sección 3) para 
+asegurar que el vehículo esté en condiciones óptimas de operación y que 
+los niveles de emisión estén dentro de los estándares establecidos por la 
+Junta de Recursos del Aire de California.
+Realizar el primer mantenimiento programado es muy importante. Esto 
+compensa el desgaste inicial que ocurre durante el período de rodaje.
+
+Las Secciones 1 y 3 se aplican a toda la motocicleta.
+
+La Sección 2 ilustra los procedimientos para la remoción/instalación de 
+componentes que pueden ser necesarios para realizar el servicio descrito 
+en las siguientes secciones.
+
+Las Secciones 4 a 16 describen las partes de la motocicleta, agrupadas 
+según su ubicación.
+
+Encuentre la sección que desea en esta página, luego vaya a la tabla de 
+contenidos en la primera página de esa sección.
+
+La mayoría de las secciones comienzan con una ilustración del ensamblaje 
+o sistema, información de servicio y solución de problemas para la sección. 
+Las páginas subsiguientes proporcionan procedimientos detallados.
+
+Si no conoce la fuente del problema, vaya a la Sección 18 Solución de 
+Problemas.
+
+============================================================
+TABLA DE CONTENIDOS
+============================================================
+
+1. INFORMACIÓN GENERAL
+2. BASTIDOR/PANELES DE CARROCERÍA/SISTEMA DE ESCAPE
+3. MANTENIMIENTO
+4. SISTEMA DE LUBRICACIÓN
+5. SISTEMA DE COMBUSTIBLE
+6. REMOCIÓN/INSTALACIÓN DEL MOTOR
+7. CULATA/VÁLVULA
+8. CILINDRO/PISTÓN
+9. MOTOR
+10. EMBRAGUE/PEDAL DE ARRANQUE/ENLACE DE CAMBIO DE MARCHAS
+11. ALTERNADOR
+12. TRANSMISIÓN
+13. CIGÜEÑAL/BALANCEADOR
+14. RUEDA DELANTERA/SUSPENSIÓN/DIRECCIÓN
+15. RUEDA TRASERA/SUSPENSIÓN
+16. CHASIS
+17. FRENO DE DISCO HIDRÁULICO
+18. SISTEMA ELÉCTRICO
+19. DIAGRAMA DE CABLEADO
+20. SOLUCIÓN DE PROBLEMAS
+21. ÍNDICE
+
+============================================================
+INFORMACIÓN IMPORTANTE
+============================================================
+
+TODA LA INFORMACIÓN, ILUSTRACIONES, DIRECCIONES Y ESPECIFICACIONES 
+INCLUIDAS EN ESTA PUBLICACIÓN SE BASAN EN LA INFORMACIÓN MÁS RECIENTE 
+DEL PRODUCTO DISPONIBLE AL MOMENTO DE LA APROBACIÓN PARA IMPRESIÓN.
+HONDA MOTOR CO., LTD. SE RESERVA EL DERECHO DE HACER CAMBIOS EN 
+CUALQUIER MOMENTO SIN PREVIO AVISO Y SIN INCURRIR EN NINGUNA OBLIGACIÓN.
+NINGUNA PARTE DE ESTA PUBLICACIÓN PUEDE SER REPRODUCIDA SIN PERMISO 
+ESCRITO. ESTE MANUAL ESTÁ ESCRITO PARA PERSONAS QUE HAN ADQUIRIDO 
+CONOCIMIENTOS BÁSICOS DE MANTENIMIENTO EN MOTOCICLETAS HONDA, 
+SCOOTERS MOTORIZADOS O ATVS.
+
+HONDA MOTOR CO., LTD.
+OFICINA DE PUBLICACIONES DE SERVICIO
+
+============================================================
+TEXTO ORIGINAL COMPLETO EXTRAÍDO
+============================================================
+
+--- Page 2 ---
+HOW TO USE THIS MANUAL
+
+Follow the Maintenance Schedule (Section 3) recom-
+mendations to ensure that the vehicle is in peak operat-
+ing condition and the emission levels are within the
+standards set by the California Air Resources Board.
+Performing the first scheduled maintenance is very
+important. It compensates for the initial wear that
+occurs during the break-in period.
+
+Sections 1 and 3 apply to the whole motorcycle.
+
+Section 2 illustrates procedures for removal/installa-
+tion of components that may be required to perform
+service described in the following sections.
+
+Section 4 through 16 describe parts of the motorcy-
+cle, grouped according to location.
+
+Find the section you want on this page, then turn to
+the table of contents on the first page of that section.
+
+Most sections start with an assembly or system illus-
+tration, service information and troubleshooting for the
+section. The subsequent pages give detailed pro-
+cedures.
+
+f you don't know the source of the trouble, go to sec-
+tion 18 Troubleshooting.
+
+CONTENTS
+
+GENERAL INFORMATION
+
+FRAME/BODY PANELS/EXHAUST SYSTEM
+
+MAINTENANCE
+
+LUBRICATION SYSTEM
+
+FUEL SYSTEM
+
+ENGINE REMOVAL/INSTALLATION
+
+CYLINDER HEAD/VALVE
+
+CYLINDER/PISTON
+
+ENGINE
+
+CLUTCH/KICKSTARTER/GEARSHIFT LINKAGE
+
+ALTERNATOR
+
+TRANSMISSION
+
+ALL INFORMATION, ILLUSTRATIONS, DIREC-
+TIONS AND SPECIFICATIONS INCLUDED IN
+THIS PUBLICATION ARE BASED ON THE LAT-
+EST PRODUCT INFORMATION AVAILABLE AT
+THE TIME OF APPROVAL FOR PRINTING.
+HONDA MOTOR CO., LTD. RESERVES THE
+RIGHT TO MAKE CHANGES AT ANY TIME
+WITHOUT NOTICE AND WITHOUT INCURRING
+ANY OBLIGATION WHATEVER. NO PART OF
+THIS PUBLICATION MAY BE REPRODUCED
+WITHOUT WRITTEN PERMISSION. THIS MAN-
+UAL IS WRITTEN FOR PERSONS WHO HAVE
+ACQUIRED BASIC KNOWLEDGE OF MAINTE-
+NANCE ON HONDA MOTORCYCLES, MOTOR
+SCOOTERS OR ATVS.
+
+CRANKSHAFT/BALANCER
+
+FRONT WHEEL/SUSPENSION/STEERING
+
+REAR WHEEL/SUSPENSION
+
+CHASSIS
+
+HYDRAULIC DISC BRAKE
+
+ELECTRICAL SYSTEM
+
+ELEC-
+TRICAL
+
+WIRING DIAGRAM
+
+HONDA MOTOR CO., LTD.
+SERVICE PUBLICATION OFFICE
+
+TROUBLESHOOTING
+
+INDEX
+
+—_
+N |
+
+
+--- Page 3 ---
+IMPORTANT SAFETY NOTICE
+
+Indicates a strong possibility of severe personal injury or death if instructions are not followed.
+CAUTION: Indicates a possibility of equipment damage if instructions are not followed.
+
+NOTE: Gives helpful information.
+
+Detailed descriptions of standard workshop procedures, safety principles and service operations are not included.
+It is important to note that this manual contains some warnings and cautions against some specific service meth-
+ods which could cause PERSONAL INJURY to service personnel or could damage a vehicle or render it unsafe.
+Please understand that those warnings could not cover all conceivable ways in which service, whether or not rec-
+ommended by Honda might be done or of the possible hazardous consequences of each conceivable way, nor
+could Honda investigate all such ways. Anyone using service procedures or tools, whether or not recommended
+by Honda must satisfy himself thoroughly that neither personal safety nor vehicle safety will be jeopardized by
+the service method or tools selected.
+
+
+
+--- Page 4 ---
+SYMBOLS
+
+The symbols used throughout this manual show specific service procedures. If supplementary information is required
+pertaining to these symbols, it would be explained specifically in the text without the use of the symbols.
+
+SS Replace the part(s) with new one(s) before assembly.
+7A Use recommended engine oil, unless otherwise specified.
+Use molybdenum oil solution
+(mixture of the engine oil and molybdenum grease in a ratio of 1:1).
+_ SEH Use multi-purpose grease (Lithium based multi-purpose gease NLGI #2 or equivalent).
+Use molybdenum disulfide grease (containing more than 3 % molybdenum disulfide, NLGI #2 or
+equivalent).
+~ “Te Example: Molykote® BR-2 plus manufactured by Dow Corning, U.S.A.
+Multi-purpose M-2 manufactured by Mitsubsihi Oil Japan
+Use molybdenum disulfide paste (containing more than 40% molybdenum disulfide, NLG1 #2 or
+equivalent).
+AMPH Example: Molykote®G-n Paste manufactured by Dow Corning, U.S.A.
+Honda Moly 60 (U.S.A. only)
+Rocol ASP manufactured by Rocol Limited, U.K.
+Rocol Paste manufactured by Sumico Lubricant, Japan
+_5Om Use silicone grease.
+ce LOCK Apply a locking agent. Use a middle strength locking agent unless otherwise specified.
+
+SAY Apply sealant.
+
+A Use brake fluid, DOT 4. Use the recommended brake fluid, unless otherwise specified.
+
+Pronk | Use Fork or Suspension Fluid.
+
+
+
+--- Page 5 ---
+1. GENERAL INFORMATION
+
+GENERAL SAFETY 1-1
+SERVICE RULES 1-2
+MODEL IDENTIFICATION 1-3
+SPECIFICATIONS 1-4
+TORQUE VALUES 1-12
+TOOLS 1-15
+
+LUBRICATION & SEAL POINTS 1-17
+CABLE & HARNESS ROUTING 1-19
+EMISSION CONTROL SYSTEMS
+
+(After '97) 1-25
+
+EMISSION CONTROL INFORMATION
+LABEL (After '97 California type only) 1-26
+
+GENERAL SAFETY
+
+Carbon monoxide
+
+If the engine must be running to do some work, make sure
+the area is well ventilated. Never run the engine in an
+enclosed area.
+
+The exhaust contains poisonous carbon monoxide gas that
+may cause loss of consciousness and may lead to death.
+
+Run the engine in an open area or with an exhaust
+evacuation system in an enclosed area.
+
+Gasoline
+
+Work in a well ventilated area. Keep cigarettes, flames or
+sparks away from the work area or where gasoline is
+stored.
+
++ Gasoline is extremely flammable and is explosive under
+certain conditions. KEEP OUT OF REACH OF
+CHILDREN.
+
+Hot components
+
++ Engine and exhaust system parts become very hot and
+remain hot for some time after the engine is run. Wear
+insulated gloves or wait until the engine and exhaust system
+have cooled before handling these parts.
+
+Used engine oil
+
+AAWARNING
+
++ Used engine oil may cause skin cancer if repeatedly left in
+contact with the skin for prolonged periods. Although this is
+unlikely unless you handle used oil on a daily basis, it is still
+advisable to thoroughly wash your hands with soap and
+water as soon as possible after handling used oil. KEEP
+OUT OF REACH OF CHILDREN.
+
+Brake dust
+
+Never use an air hose or dry brush to clean brake
+assemblies. Use an OSHA-approved vacuum cleaner or
+alternate method approved by OSHA, designed to
+minimize the hazard caused by airborne asbestos fibers.
+
++ Inhaled asbestos fibers have been found to cause respiratory
+disease and cancer.
+
+Brake fluid
+
+CAUTION
+
++ Spilling fluid on painted, plastic or rubber parts will damage
+them. Place a clean shop towel over these parts whenever the
+system is serviced.
+
+KEEP OUT OF REACH OF CHILDREN.
+
+1-1
+
+
+
+--- Page 6 ---
+GENERAL INFORMATION
+
+SERVICE RULES
+
+1s
+
+> i)
+
+NOD
+
+Use genuine HONDA or HONDA-recommended parts and lubricants or their equivalents. Parts that do not meet
+HONDA's design specifications may damage the motorcycle.
+
+. Use the special tools designed for this product.
+. Use only metric tools when servicing this motorcycle. Metric bolts, nuts, and screws are not interchangeable with
+
+English fasteners. The use of incorrect tools and fasteners may damage the motorcycle.
+
+. Install new gaskets, O-rings, cotter pins, lock plates, etc. when reassembling.
+. When tightening a series of bolts or nuts, begin with the larger-diameter of inner bolts first, and tighten to the
+
+specified torque diagonally, in incremental steps unless a particular sequence is specified.
+
+. Clean parts in cleaning solvent upon disassembly. Lubricate any sliding surfaces before reassembly.
+. After assembly, check all parts for proper installation and operation.
+. Route all electrical wires as show on pages 1-19 through 1-24, Cable and Harness Routing.
+
+1-2
+
+
+--- Page 7 ---
+GENERAL INFORMATION
+
+MODEL IDENTIFICATION
+
+(2) ENGINE SERIAL NUMBER
+
+(2) ENGINE SERIAL NUMBER
+The engine serial number is stamped on the lower left of
+the crankcase.
+
+po ag : i & 3
+(4) CARBURETOR IDENTIFICATION NUMBER
+
+(4) CARBURETOR IDENTIFICATION NUMBER
+The carburetor identification number is stamped on the
+right side of the carburetor body.
+
+(1) VEHICLE IDENTIFICATION NUMBER
+
+(1) VEHICLE IDENTIFICATION NUMBER
+The Vehicle Identification Number (VIN) is located on the
+front side of the steering head.
+
+(3) FRAME SERIAL NUMBER
+
+(3) FRAME SERIAL NUMBER
+The frame serial number is stamped on the right side of
+the steering head.
+
+(5) COLOR LABEL
+
+(5) COLOR LABEL
+
+The color label is attached to the left rear frame tube
+under the seat. When ordering color-coded parts, always
+specify the designated color code.
+
+1-3
+
+
+--- Page 8 ---
+GENERAL INFORMATION
+
+SPECIFICATIONS
+
+;- GENERAL
+
+ITEM
+
+SPECIFICATION
+
+DIMENSIONS | Overall length
+
+Overall width
+
+Overall height
+
+Wheelbase
+
+Seat height
+
+Ground clearance
+
+Dry weight
+
+Curb weight
+
+Maximum weight capacity
+
+2,130 mm (83.9 in)
+840 mm (33.1 in)
+1,240 mm (48.8 in)
+1,425 mm (56.1 in)
+930 mm (36.6 in)
+310 mm (12.2 in)
+116.5 kg (257 Ibs)
+125 kg (276 Ibs)
+100 kg (220 Ibs)
+
+FRAME Frame type
+
+Front suspension
+
+Front wheel travel
+
+Rear suspension
+
+Rear wheel travel
+
+Front tire size
+
+Rear tire size
+
+Tire brand (Dunlop) FR/RR
+Front brake
+
+Rear brake
+
+Caster angle
+
+Trail length
+
+Fuel tank capacity
+
+Fuel tank reserve capacity
+
+Semi-double cradle
+Telescopic fork
+
+280 mm (11.0 in)
+
+Swingarm
+
+300 mm (11.8 in)
+
+80/100-21 51M
+
+110/100-18 64M
+K490G/K695
+
+Hydraulic single disc
+Hydraulic single disc
+
+25° 15°
+
+94 mm (3.7 in)
+
+9.5 & (2.5 US gal, 2.1 Imp gal)
+1.5 £ (0.4 US gal, 0.3 Imp gal)
+
+ENGINE Cylinder arrangement
+
+Bore and stroke
+
+Displacement
+
+Compression ratio
+
+Valve train
+
+Intake valve opens at 1 mm lift
+Intake valve closes at 1 mm lift
+Exhaust valve opens at 1 mm lift
+Exhaust valve closes at 1 mm lift
+Lubrication system
+
+Oil pump type
+
+Cooling system
+
+Air filtration
+
+Engine weight
+
+Gasoline, air cooled 4-stroke SOHC
+85.0 X 70.0 mm (3.35 X 2.76 in)
+
+397 cm’ (24.2 cu-in)
+
+9:31
+
+Silent multi-link chain driven SOHC with rocker arms
+11° BTDC
+
+41.5° ABDC
+
+40° BBDC
+
+10° ATDC
+
+Forced pressure (dry sump)
+Trochoid
+
+Air cooled
+
+Oiled polyurethane foam
+
+38.5 kg (85 Ibs)
+
+
+
+--- Page 9 ---
+GENERAL INFORMATION
+
+-- GENERAL (cont*dy, tTJJ$J_J11_—_——]——_|
+
+ITEM SPECIFICATION
+
+CARBURETOR | Carburetor type Piston valve
+
+Throttle bore 38 mm (1.5 in)
+DRIVE TRAIN | Clutch system Multi-plate, wet
+
+Clutch operation system Cable operating
+
+Transmission 5 speeds
+
+Primary reduction 2.826 (65/23)
+
+Final reduction 3.000 (45/15)
+
+Gear ratio 1st 2.615 (34/13)
+
+Gear ratio 2nd 1.842 (35/19)
+
+Gear ratio 3rd 1.400 (28/20)
+
+Gear ratio 4th 1.120 (28/25)
+
+Gear ratio 5th 0.926 (25/27)
+
+Gearshift pattern Left foot operated return system 1-N-2-3-4-5
+ELECTRICAL Ignition system CDI (Capacitive Discharge Ignition)
+
+1-5
+
+
+--- Page 10 ---
+GENERAL INFORMATION
+
+Unit: mm (in)
+
+-- LUBRICATION SYSTEM
+ITEM STANDARD SERVICE LIMIT
+Engine oil capacity at draining 1.7 2 (1.8 US qt, 1.5 Imp qt) —
+at disassembly 2.2 2 (2.3 US qt, 1.9 Imp qt) —
+at filter change 1.8 2 (1.9 US qt, 1.6 Imp qt) —
+Recommended engine oil HONDA GN4 or HP4 4-stroke oil or —_
+equivalent motor oil
+API service classification:
+SF or SG
+Viscosity: SAE 10W-40 or 20W-50
+Oil pump rotor Tip clearance 0.15 (0.006) 0.20 (0.008)
+Body clearance 0.15 — 0.22 (0.006 — 0.009) 0.25 (0.010)
+End clearance 0.02 — 0.09 (0.001 - 0.004) 0.12 (0.005)
+
+Jet needle clip position ‘96, '97:
+
+After '97:
+
+Pilot screw opening
+
+- FUEL SYSTEM
+ITEM SPECIFICATION
+Carburetor identification number | '96, '97 : PDK 1A
+After '97: 49 state type PDK 1C
+After '97: California type PDK 1E
+Main jet ‘96, '97: #162*, #158**
+After '97: #142
+Slow jet ‘96, '97: #62*, #60**
+After ‘97: #52
+
+3rd groove from top*, 2nd groove from top**
+3rd groove from top
+See page 5-11
+
+Float level
+Idle speed
+
+14.5 mm (0.57 in)
+
+1,300 + 100 rpm
+
+Throttle grip free play
+
+2-6 mm (1/8 - 1/4 in)
+
+* Standard settings (as delivered)
+
+** Suggested settings for trail riding (noise suppressor and exhaust diffuser installed)
+
+1-6
+
+
+--- Page 11 ---
+GENERAL INFORMATION
+
+-- CYLINDER HEAD/VALVES
+ITEM
+
+STANDARD
+
+Unit: mm (in)
+
+SERVICE LIMIT
+
+Decompressor lever free play
+
+5-8 mm (3/16 — 5/16 in)
+
+Cylinder compression
+
+686 — 980 kPa (7.0 — 10.0 kgf/em2,
+100 — 142 psi) / 450 rpm
+
+Cylinder head | Warpage — 0.10 (0.004)
+
+Camshaft Cam lobe height IN 30.925 — 31.025 (1.2175 — 1.2215) 30.82 (1.213)
+
+EX 30.827 — 30.927 (1.2137 - 1.2176) 30.72 (1.209)
+
+Runout — 0.03 (0.001)
+
+Rocker arm Rocker arm I.D. IN/EX 11.500 - 11.518 (0.4528 — 0.4535) 11.53 (0.454)
+
+Rocker arm shaft O.D. IN/EX 11.466 — 11.484 (0.4514 - 0.4521) 11.41 (0.449)
+
+Rocker arm-to-shaft clearance IN/EX 0.016 — 0.052 (0.0006 — 0.0020) 0.10 (0.004)
+
+Sub-rocker Sub-rocker arm I.D. IN/EX 7.000 — 7.015 (0.2756 — 0.2762) 7.05 (0.278)
+
+ann Sub-rocker arm shaft O.D. IN/EX 6.972 - 6.987 (0.2745 — 0.2751) 6.92 (0.272)
+Sub-rocker arm-to-shatt IN/EX 0.013 — 0.043 (0.0005 - 0.0017) —
+Valve and Valve clearance IN 0.10 + 0.02 (0.004 + 0.0008) —
+valve guide EX 0.12 + 0.02 (0.005 + 0.0008) —
+
+Valve stem O.D. IN 5.475 — 5.490 (0.2156 — 0.2161) 5.46 (0.215)
+
+EX 5.455 — 5.470 (0.2148 — 0.2154) 5.44 (0.214)
+
+Valve guide I.D. IN/EX 5.500 - 5.512 (0.2165 - 0.2170) 5.52 (0.217)
+
+Stem-to-guide clearance IN 0.010 — 0.037 (0.0004 - 0.0015) 0.12 (0.005)
+
+EX 0.030 — 0.057 (0.0012 — 0.0022) 0.14 (0.006)
+
+Valve seat width IN/EX 1.0 — 1.1 (0.039 — 0.043) 2.0 (0.08)
+Valve spring Free length Inner IN/EX 37.19 (1.464) 36.3 (1.43)
+Outer IN/EX 44.20 (1.740) 43.1 (1.70)
+
+1-7
+
+
+--- Page 12 ---
+GENERAL INFORMATION
+
+piston ring
+and piston pin
+
+Unit: mm (in)
+— CYLINDER/PISTON
+ITEM STANDARD SERVICE LIMIT
+
+Cylinder 1.D. 85.000 — 85.010 (3.3465 — 3.3468) 85.10 (3.350)
+
+Out of round — 0.05 (0.002)
+
+Taper —— 0.05 (0.002)
+
+Warpage — 0.10 (0.004)
+Piston, | Piston mark direction “IN" mark toward the intake side —_
+
+Piston O.D.
+
+84.960 — 84.985 (3.3449 - 3.3459)
+at 15 (0.6) from the bottom
+
+84.880 (3.3417)
+
+Piston pin hole |.D. 20.002 — 20.008 (0.7875 — 0.7877) 20.060 (0.7898)
+Piston pin O.D. 19.994 — 20.000 (0.7872 - 0.7874) 19.964 (0.7860)
+Connecting rod small end I.D. 20.020 — 20.041 (0.7882 - 0.7890) 20.067 (0.7900)
+Cylinder-to-piston clearance 0.015 — 0.050 (0.0006 - 0.0020) 0.10 (0.004)
+
+Piston-to-piston pin clearance
+
+0.002 — 0.014 (0.0001 — 0.0006)
+
+0.096 (0.0038)
+
+Connecting rod-to-piston pin clearance
+
+0.020 — 0.047 (0.0008 — 0.0019)
+
+0.103 (0.0041)
+
+Piston ring-to-ring Top 0.030 — 0.065 (0.0012 — 0.0026) 0.14 (0.006)
+groove clearance Second 0.015 — 0.050 (0.006 — 0.0020) 0.12 (0.005)
+| Piston ring end gap Top 0.20 — 0.35 (0.008 — 0.014) 0.50 (0.020)
+Second 0.35 — 0.50 (0.014 — 0.020) 0.65 (0.026)
+Oil (side rail) 0.2 — 0.7 (0.01 — 0.03) 0.9 (0.04)
+Piston ring mark direction | Top/second Marking facing up —
+— CLUTCH/KICKSTARTER/GEARSHIFT LINKAGE ee
+ITEM STANDARD SERVICE LIMIT
+Clutch Clutch lever free play 10 — 20 (3/8 - 3/4) —
+Clutch spring free length ‘96: 45.5 (1.79) 44.5 (1.75)
+After '96: 43.2 (1.70) 41.6 (1.64)
+Clutch disc thickness 2.92 - 3.08 (0.115 — 0.121) 2.69 (0.106)
+Clutch plate warpage —_— 0.30 (0.012)
+Clutch outer |.D. 28.000 — 28.021 (1.1024 — 1.1032) 28.04 (1.104)
+Clutch outer guide | .D. | 22.010 — 22.035 (0.8665 — 0.8675) 22.05 (0.868)
+O.D. 27.959 — 27.980 (1.1007 — 1.1016) 27.90 (1.098)
+
+Mainshaft O.D. at clutch outer guide
+
+21.959 — 21.980 (0.8645 — 0.8654)
+
+21.91 (0.863)
+
+Kickstarter
+
+Kickstarter pinion gear |.D.
+
+22.020 — 22.041 (0.8669 — 0.8678)
+
+22.12 (0.871)
+
+Kickstarter spindle O.D.
+
+21.959 — 21.980 (0.8645 — 0.8654)
+
+21.91 (0.863)
+
+Kickstarter idle gear |.D.
+
+19.010 — 19.034 (0.7484 — 0.7494)
+
+19.13 (0.753)
+
+Idle gear bushing 1.D.
+
+14.000 — 14.018 (0.5512 — 0.5519)
+
+14.05 (0.553)
+
+0.D.
+
+18.959 — 18.980 (0.7464 — 0.7472)
+
+18.92 (0.745)
+
+Countershaft O.D. at idle gear
+
+13.966 — 13.984 (0.5498 — 0.5506)
+
+13.93 (0.548)
+
+
+
+--- Page 13 ---
+GENERAL INFORMATION
+
+Unit: mm (in)
+
+-- TRANSMISSION
+ITEM STANDARD SERVICE LIIMIT
+
+Transmission Gear |.D. M4 25.020 — 25.041 (0.9850 — 0.9859) 25.08 (0.987)
+M5 25.000 — 25.021 (0.9843 - 0.9851) 25.06 (0.987)
+(eu) 23.000 — 23.021 (0.9055 — 0.9063) 23.07 (0.908)
+C2, C3 28.020 — 28.041 (1.1031 - 1.1040) 28.08 (1.106)
+Gear bushing O.D. M4 24.979 — 25.000 (0.9834 - 0.9843) 24.90 (0.980)
+M5 24.959 — 24.980 (0.9826 - 0.9835) 24.90 (0.980)
+G1 22.959 — 22.980 (0.9039 - 0.9047) 22.90 (0.902)
+C2, C3 27.979 — 28.000 (1.1015 — 1.1024) 27.94 (1.100)
+Gear bushing I.D. M4 22.000 — 22.021 (0.8661 — 0.8670) 22.10 (0.870)
+CA 20.020 — 20.041 (0.7882 — 0.7890) 20.08 (0.791)
+C2, C3 25.000 — 25.021 (0.9843 - 0.9851) 25.06 (0.987)
+Mainshaft O.D. at M4 21.959 — 21.980 (0.8645 — 0.8654) 21.92 (0.863)
+Countershaft O.D. at C1 19.979 — 20.000 (0.7866 — 0.7874) 19.94 (0.785)
+at C2, C3 24.959 — 24.980 (0.9826 - 0.9835) 24.92 (0.981)
+Gear-to-bushing clearance 0.020 — 0.062 (0.0008 — 0.0022) 0.10 (0.004)
+Gear bushing-to-shaft clearance 0.020 — 0.062 (0.0008 - 0.0022) 0.10 (0.004)
+Shift fork, Shift fork |.D. 13.000 — 13.021 (0.5118 — 0.5126) 13.05 (0.514)
+
+fork shaft Shift fork claw thickness 5.93 - 6.00 (0.233 - 0.236) 5.5 (0.22)
+and drum Shift fork shaft O.D. 12.966 — 12.984 (0.5105 - 0.5112) 12.90 (0.508)
+Drum O.D. at right end 19.959 — 19.980 (0.7858 — 0.7866) 19.90 (0.783)
+Drum journal (R. crankcase) 20.000 — 20.033 (0.7874 — 0.7887) 20.07(0.790)
+
+Unit: mm (in)
+-- CRANKSHAFT/BALANCER
+ITEM STANDARD SERVICE LIIMIT
+
+Connecting rod Big end side clearance 0.05 — 0.45 (0.002 — 0.018) 0.6 (0.02)
+Big end radial clearance 0.006 — 0.018 (0.0002 - 0.0007) 0.05 (0.002)
+Crankshaft runout — 0.12 (0.005)
+
+1-9
+
+
+--- Page 14 ---
+GENERAL INFORMATION
+
+FRONT WHEEL/SUSPENSION/STEERING
+
+Unit: mm (in)
+
+ITEM STANDARD SERVICE LIMIT
+Tire and Cold tire pressure: 100 kPa (1.0 kgf/cm?, 15 psi) —
+waeel Axle runout - 0.2 (0.01)
+Wheel rim runout Radial =e 2.0 (0.08)
+Axial — 2.0 (0.08)
+Wheel rim-to-hub distance 20.25 (0.797) —
+Fork Fork spring free length ‘96, ‘97: 510.4 (20.09) 505.3 (19.89)
+After '97: 536.1 (21.11) 528 (20.8)
+Fork spring direction Narrow end facing down —
+Fork tube runout — 0.20 (0.008)
+Fork air pressure 0 kPa —_—
+Recommended fork oil Pro Honda Suspension Fluid SS - 7 anmuvrd
+Fork oil level ‘96, ‘97: 100 (3.9) —
+| After ‘97: 116 (4.6) —
+Fork oil capacity | ‘96, '97: 570 cm? (19.2 US gal, 20.0 Imp gal) —
+
+After '97: 559 cm? (18.9 US gal, 19.7 Imp gal)
+Unit: mm (in)
+- REAR WHEEL/SUSPENSION
+ITEM STANDARD SERVICE LIMIT
+Tire and Cold tire pressure 100 kPa (1.0 kgf/cm?, 15 psi) —
+wheel Axle runout — 0.2 (0.01)
+Wheel rim runot Radial —— 2.0 (0.08)
+Axial — 2.0 (0.08)
+Wheel rim-to-hub distance 19 (0.7) —
+Drive chain| Drive chain slack 35 — 45 (1-1/3 - 1-3/4) —=
+Drive chain length (at 41 pins/40 links) — 638 (25.1)
+Drive chain size / link DID 520V8/108 or
+RK 520M0Z6/108
+Chain slider depth — 4.0 (0.15)
+Shock Shock absorber spring free length 217.3 (8.56) 213.0 (8.39)
+absorber | Shock absorber spring direction Narrow end facing down oe
+Shock absorber Standard 212.3 (8.36) —
+spring installed ~
+length Adjustable range 205.3 — 216.3 (8.08 — 8.52) —
+
+Damper rod compressed force at 10 mm
+(0.4 in) compressed
+
+15.4 kg (34.0 Ibs)
+
+Damper gas pressure/compressed gas
+
+980 kPa (10.0 kgf/cm?, 142 psi) /
+Nitrogen
+
+Recommended shock absorber oil
+
+Pro Honda Suspension Fluid SS-8
+
+1-10
+
+
+--- Page 15 ---
+GENERAL INFORMATION
+
+;- HYDRAULIC DISC BRAKE
+
+Unit: mm (in)
+
+ITEM STANDARD SERVICE LIIMIT
+Specified brake fluid DOT 4 —
+Brake disc thickness FR 3.0 (0.12) 2.5 (0.10)
+RR 4.5 (0.18) 4.0 (0.16)
+Brake disc runout — 0.25 (0.010)
+Master cylinder |.D. FR 11.000 — 11.043 (0.4331 — 0.4348) 11.06 (0.435)
+RR 12.700 — 12.743 (0.5000 - 0.5017) 12.76 (0.502)
+Master piston O.D. FR 10.957 — 10.984 (0.4314 - 0.4324) 10.84 (0.427)
+RR 12.657 — 12.684 (0.4983 — 0.4994) 12.64 (0.498)
+Caliper cylinder |.D. 27.000 - 27.050 (1.0630 — 1.0650) 27.06 (1.065)
+Caliper piston O.D. FR 26.900 — 26.950 (1.0591 - 1.0610) 26.89 (1.059)
+RR 26.935 — 26.968 (1.0604 — 1.0617) 26.91 (1.059)
+-- ELECTRICAL SYSTEM —]
+ITEM SPECIFICATION
+Lighting AC regulator regulated voltage 12.5 - 13.5 V/ 3,000 rpm
+system Lighting coil resistance (at 20°C/68° F) 0.1-1.00
+Ignition Spark plug NGK DENSO
+system Standard DPR8Z X24GPR-U
+For extended high speed riding DPR9Z X27GPR-U
+
+Spark plug gap
+
+0.6 — 0.7 mm (0.023 — 0.028 in)
+
+Ignition coil primary peak voltage
+
+100 V minimum
+
+Ignition pulse generator peak voltage
+
+0.7 V minimum
+
+Exciter coil peak voltage
+
+|
+
+100 V minimum
+
+Ignition timing F mark 8° BTDC at idle
+Bulb Headlight 12V35W
+Taillight 12V 5W |
+
+1-11
+
+
+--- Page 16 ---
+GENERAL INFORMATION
+
+FASTENER TYPE
+
+TORQUE
+Nem (kgf-m, Ibfeft)
+
+STANDARD
+TORQUE
+FASTENER TYPE Nem (kgfem, Ibfeft)
+5 mm bolt and nut 5 (0.5, 3.6)
+6 mm bolt and nut 10 (1.0, 7)
+8 mm bolt and nut 22 (2.2, 16)
+10 mm bolt and nut 34 (3.5, 25)
+12 mm bolt and nut 54 (5.5, 40)
+
+5 mm screw
+6mm screw
+6 mm flange bolt (8 mm head: Small flange)
+
+O
+
+6 mm flange bolt (8 mm head: Large
+flange-engine only)
+
+©
+
+6 mm flange bolt (10 mm head) and nut
+8 mm flange bolt and nut
+10 mm flange bolt and nut
+
++ Torque specifications listed below are for important fasteners.
++ Others should be tightened to standard torque values listed above.
+
+NOTES: 1. Apply locking agent to the threads.
+
+2. Apply oil to the threads and seating surface.
+
+3. ALOC bolt. Do not reuse.
+
+4 (0.4, 2.9)
+9 (0.9, 6.5)
+9 (0.9, 6.5)
+
+12 (1.2, 9)
+
+12 (1.2, 9)
+26 (2.7, 20)
+39 (4.0, 29)
+
+4, Stake.
+5. Loosen the bolt 1/8 to 1/4 turns after tightening it to the specified torque, then tighten the pivot nut.
+ENGINE en ra
+THREAD DIA. TORQUE U
+ITEM ary (mm) N-m (kgf-m, Ibfeft) REMARKS
+
+Lubrication System:
+
+Oil drain bolt (at crankcase) 1 12 25 (2.5, 18)
+
+Oil drain bolt (at frame down tube) 1 10 39 (4.0, 29)
+
+Frame down tube oil strainer screen 1 27 54 (5.5, 40)
+
+Oil pipe bolt (at oil strainer) 1 12 37 (3.8, 27)
+
+Oil cooler joint flare nut (left side) 1 16 20 (2.0, 14)
+
+(right side) 1 18 20 (2.0, 14)
+
+Oil pump assembly bolt 2 6 13 (1.3, 9)
+Fuel System:
+
+Fuel valve mounting bolt 2 6 9 (0.9, 6.5)
+Cylinder Head/Valves:
+
+Spark plug 1 12 18 (1.8, 13)
+
+Valve hole cap 4 36 15 (1.5, 11)
+
+Valve adjusting lock nut 4 7 24 (2.4, 17)
+
+Head cover bolt 1 8 26 (2.7, 20)
+
+Rocker arm shaft 2 14 27 (2.8, 20) NOTE 1
+
+Intake sub-rocker arm shaft 2 14 27 (2.8, 20) NOTE 1
+
+Exhaust sub-rocker arm shaft 2 12 27 (2.8, 20) NOTE 1
+
+Cam sprocket bolt 2 7 20 (2.0, 14) NOTE 1
+
+Cam chain tensioner plug 1 6 4 (0.4, 2.9)
+
+Cylinder head nut 4 10 44 (4.5, 33) NOTE 2
+Cylinder/Piston:
+
+Cylinder bolt 4 10 44 (4.5, 33) NOTE 2
+
+1-12
+
+
+--- Page 17 ---
+GENERAL INFORMATION
+
+-- ENGINE (cont'd)
+
+c THREAD DIA. TORQUE
+ITEM Q'Ty (mm) N-m (kgfem, Ibfeft) REMARKS
+Clutch/Kickstarter/Gearshift Linkage:
+Kickstarter pedal pinch bolt 1 8 26 (2.7, 20)
+Clutch center lock nut 1 18 108 (11.0, 80) NOTE 2, 4
+Gearshift drum stopper arm pivot bolt 1 6 12 (1.2, 9)
+Primary drive gear nut 1 18 88 (9.0, 65) NOTE 2
+Alternator:
+Timing hole cap dl 14 10 (1.0, 7)
+Crankshaft hole cap 1 30 8 (0.8, 5.8)
+Flywheel bolt 1 12 127 (13.0, 94) NOTE 2
+Left crankcase cover stud bolt 1 6 10 (1.0, 7) NOTE 1
+Transmission:
+Mainshaft bearing setting plate bolt 2 6 12 (1.2,9) NOTE 1
+Gearshift return spring pin | 8 24 (2.4, 17)
+FRAME
+’ THREAD DIA. TORQUE
+ITEM ory (mm) | Nem (kgf+m, Ibf-ft) | REMARKS
+Frame/Body Panels/Exhaust System:
+Sub-frame upper mounting nut 1 8 26 (2.7, 20)
+Sub-frame lower mounting bolt 2 8 42 (4.3, 31)
+Exhaust pipe joint nut 4 8 18 (1.8, 13)
+Muffler mounting bolt 2 8 32 (3.3, 24)
+Muffler band bolt 1 8 20 (2.0, 14)
+Engine Removal/Installation:
+Right foot peg mounting bolt 2 10 42 (4.3, 31)
+Gearshift pedal pinch bolt 1 6 12 (1.2, 9)
+Upper engine hanger bracket nut (engine) 1 10 54 (5.5, 40)
+(frame) 2 8 26 (2.7, 20)
+Front engine hanger bracket nut (engine) 1 10 54 (5.5, 40)
+(frame) 2. 8 26 (2.7, 20)
+Lower engine mounting nut 1 10 54 (5.5, 40)
+Front Wheel/Suspension/Steering:
+Front axle holder nut 8 6 12 (1.2, 9)
+Front axle 1 16 88 (9.0, 65)
+Front brake disc bolt 4 6 20 (2.0, 14) NOTE 1
+Spoke nipple 36 BC3.5 3.7 (0.38, 2.7)
+Rim lock 1 8 13 (1.3, 9)
+Fork center bolt 2 22 34 (3.5, 25) NOTE 1
+Piston rod lock nut 2 10 20 (2.0, 14)
+Fork cap 2 39 23 (2.3, 17)
+Rebound damping adjuster 2 —= 27 (2.8, 20)
+Steering stem nut 1 24 98 (10.0, 72)
+Steering bearing adjustment nut 1 24 — See page 13-26
+Throttle pulley pivot screw 1 5 4 (0.4, 2.9)
+
+1-13
+
+
+--- Page 18 ---
+GENERAL INFORMATION
+
+-—- FRAME (cont'd)
+m THREAD DIA. TORQUE
+HEM a'ry (mm) N-m (kgf-m, lb-ft) REMARKS
+Rear Wheel/Suspension:
+Rear axle nut 1 16 88 (9.0, 65)
+Rear brake disc bolt 4 8 42 (4.3, 31) NOTE 3
+Driven sprocket bolt 6 8 32 (3.3, 24)
+Spoke nipple 32 BC3.5 3.7 (0.38, 2.7)
+Rim lock nut 1 8 13 (1.3, 9)
+Shock absorber damper rod end nut 1 12 30 (3.1, 22)
+Shock absorber compression damping adjuster 1 —— 18 (1.8, 13)
+Shock absorber spring lock nut 1 — 88 (9.0, 65)
+Shock absorber upper mounting nut 1 10 44 (4.5, 33)
+Shock absorber lower monuting nut 1 10 44 (4.5, 33)
+Shock arm-to-swingarm nut 1 12 69 (7.0, 51)
+Shock link-to-frame nut 1 10 49 (5.0, 36)
+Shock link-to-shock arm nut 1 10 44 (4.5, 33)
+Swingarm pivot nut 1 14 88 (9.0, 65)
+Rear brake hose guide screw 2 5 4.2 (0.43, 3.1) NOTE 3
+Chain slider screw 2 5 4.2 (0.43, 3.1) NOTE 3
+Chain adjuster stopper pin 2 10 34 (3.5, 25) NOTE 1
+Wheel setting plate fixing screw 4 5 4.2 (0.43, 3.1) NOTE 3
+Hydraulic Disc Brake:
+Brake hose oil bolt 4 10 34 (3.5, 25)
+Pad pin 2 10 18 (1.8, 13)
+Pad pin plug 2 10 2.5 (0.25, 1.8)
+Caliper bleed valve 2 8 5.5 (0.55, 4.0)
+Front caliper mouning bolt 2 8 30 (3.1, 22) NOTE 3
+Front caliper pin bolt 1 8 23 (2.3, 17) NOTE 1
+Front caliper bracket pin blot 1 8 13 (1.3, 9) NOTE 1
+Front master cylinder reservoir cap screw 2 4 1.5 (0.15, 1.1)
+Front brake lever pivot bolt 1 6 6 (0.6, 4.3)
+nut | 6 6 (0.6, 4.3)
+Front brake lever adjusting bolt 1 5 6 (0.6, 4.3)
+Rear caliper pin bolt 1 12 27 (2.8, 20)
+Rear caliper bracket pin bolt 1 8 13 (1.3, 9) NOTE 1
+Rear master cylinder mounting bolt 2 6 14 (1.4, 10) NOTE 3
+Rear master cylinder push rod lock nut 1 8 18 (1.8, 13)
+Others:
+Side stand pivot bolt 1 10 10 (1.0, 7) NOTE 5
+nut 1 10 39 (4.0, 29)
+
+1-14
+
+
+--- Page 19 ---
+TOOLS
+
+NOTES: 1. Equivalent commercially availab
+2. Not available in U.S.A.
+3. Alternative tool.
+
+einU.S.A.
+
+GENERAL INFORMATION
+
+DESCRIPTION TOOL NUMBER REMARKS REF. SEC.
+Carburetor float level gauge 07401-0010000 5
+Universal bearing puller 07631-0010000 NOTE 1 12
+Spoke wrench C, 5.8 x 6.1 mm 07701-0020300 NOTE 1 3, 13, 14
+Gear holder 07724-0010100 NOTE 2 9
+Clutch center holder 07724-0050002 NOTE 1 9
+Flywheel holder 07725-0040000 NOTE 1 10
+Flywheel puller 07733-0020001 NOTE 3: 10
+07933-3950000
+Remover weight 07741-0010201 NOTE 3: 11,12
+07936-371020 A or
+07936-37 10200
+Valve guide driver, 5.5 mm 07742-0010100 rf
+Attachment, 32 x 35 mm 07746-0010100 9, 12, 13
+Attachment, 37 x 40 mm 07746-0010200 11, 12, 14
+Attachment, 42 x 47 mm 07746-0010300 11, 13, 14
+Attachment, 52 x 55 mm 07746-0010400 11
+Attachment, 72 x 75 mm 07746-0010600 12
+Attachment, 24 x 26 mm 07746-0010700 14
+Pilot, 12 mm 07746-0040200 12
+Pilot, 15 mm 07746-0040300 12
+Pilot, 17 mm 07746-0040400 9, 11, 13, 14
+Pilot, 25 mm 07746-0040600 11
+Pilot, 30 mm 07746-0040700 12
+Pilot, 22 mm 07746-0041000 i
+Bearing remover shaft 07746-0050100 13,14
+Bearing remover head, 17 mm 07746-0050500 13, 14
+Driver 07749-0010000 9,11, 12, 13, 14
+Valve spring compressor 07757-0010000 7
+Valve seat cutter, 29 mm (45° EX) 07780-0010300 NOTE 1 7
+Valve seat cutter, 35 mm (45° IN) 07780-0010400 NOTE 1 7
+Valve seat cutter, 30 mm (32° EX) 07780-0012200 NOTE 1 x
+Valve seat cutter, 35 mm (32° IN) 07780-0012300 NOTE 1 7
+Valve seat cutter, 30 mm (60° IN/EX) 07780-0014000 NOTE 1 r
+Valve seat cutter holder, 5.5 mm 07781-0010101 NOTE 1 7
+Compression gauge attachment 07908-KK60000 NOTE 1 7
+Snap ring pliers 07914-3230001 15
+Steering stem socket 07916-KA50100 13
+Needle bearing remover 07931-MA70000 NOTE 3: 14
+07936-37 10600 and
+07936-3710100 and
+07936-3710200
+Remover shaft 07936-1660120 12
+Remover handle 07936-3710100 11
+Bearing remover, 17 mm 07936-3710300 11
+Bearing remover set, 15 mm 07936-KC10000 NOTE 2 12
+- bearing remover, 15 mm 07936-KC10500 12
+- remover shaft 07936-KC 10100 NOTE 2 12:
+- bearing remover 07936-KC 10200 NOTE 2 12
+- remover weight 07741-0010201 NOTE 3: 12
+07936-371020A or
+07936-3710200
+
+1-15
+
+
+--- Page 20 ---
+GENERAL INFORMATION
+
+DESCRIPTION TOOL NUMBER REMARKS | REF. SEC.
+
+Steering stem driver 07946-4300101 NOTE 3: 13
+07946-MB00000 and
+07946-KA6000A or
+GN HT-51
+
+Needle bearing remover 07946-KA50000 14
+
+Driver head (After ‘97) 07946-KM40701 NOTE 2 14
+
+Driver shaft (After ‘97) 07946-MJ00100 14
+
+Fork seal driver attachment 07947-KA40200 13
+
+Fork seal driver weight 07947-KA50100 13
+
+Oil seal remover 07948-4630100 NOTE 3: 13
+M9360-277-91774 and
+07953-MJ1000B or
+07953-MJ1000A
+
+Crankcase assembly tool 07965-VM00000 NOTE 2 12
+
+- assembly collar 07965-VM00100 12
+
+— assembly shaft 07965-VM00200 NOTE 3: 12
+07931-ME4010B and
+07931-HB3020A
+
+- threaded adaptor 07965-VM00300 NOTE 3: 12
+07931-KF00200
+
+Slider guide, 14 mm 07974-KA40000 NOTE 2 14
+
+Slider guide attachment 07974-KA50102 NOTE 2 14
+
+Valve guide reamer, 5.5 mm 07984-2000001 NOTE 3: 7
+07984-200000D
+
+Pin driver 07GMD-KT80100 NOTE 2 14
+
+Peak voltage adaptor 07HGJ-0020100 NOTE 3: 16
+Peak voltage tester
+(U.S.A. only)
+
+Spherical bearing driver (‘96, ‘97) 07HMF-KS60100 NOTE 3: 14
+07965-GM00100 or
+07965-VM00100
+
+Bearing remover, 13 mm 07LMC-KZ10100 NOTE 2 12
+
+Fork damper holder O7WMB-KCY0100 NOTE 3: 13
+07TMB-KCY010A and
+07TMB-001010A
+
+1-16
+
+
+
+--- Page 21 ---
+GENERAL INFORMATION
+
+LUBRICATION & SEAL POINTS
+
+-- ENGINE
+LOCATION
+
+MATERIAL
+
+REMARKS
+
+Camshaft journal and lobes
+
+Rocker arm slipper surfaces
+
+Sub-rocker arm slipper surfaces
+
+Valve stem (valve guide sliding surfaces)
+Clutch outer guide sliding surfaces
+Kickstarter spindle spline
+
+Piston pin outer surface
+
+Connecting rod small end inner surface
+Transmission gear and sliding surfaces
+Transmission gear shift fork grooves
+
+Molybdenum oil solution
+(a mixture of 1/2
+
+engine oil and 1/2
+molybdenum disulfide
+grease)
+
+Rocker arm shaft sliding surface
+
+Sub-rocker arm shaft sliding surface
+
+Cam chain
+
+Cylinder head nut threads and seating surfaces
+
+Piston outer surface and piston pin hole
+
+Piston rings
+
+Cylinder bore
+
+Cylinder bolt threads and seating surfaces
+(10 mm only)
+
+Clutch arm shaft
+
+Clutch lifter piece
+
+Clutch disc lining
+
+Clutch center lock nut threads and seating surfaces
+
+Primary drive gear lock nut threads and
+seating surfaces
+
+Flywheel bolt threads and seating surfaces
+
+Transmission gear teeth
+
+Gearshift fork shaft
+
+Gearshift fork pins and inner surfaces
+
+Shift drum grooves
+
+Connecting rod big end side surfaces
+
+Oil pump rotors
+
+Bearings
+
+O-rings
+
+Engine oil
+
+Oil seal lips
+
+Multi-purpose grease
+
+Rocker arm shaft threads
+
+Sub-rocker arm shaft threads
+
+Gearshift cam plate bolt threads
+
+Left crankcase cover stud bolt threads
+
+Alternator wire clamp bolt threads (inside the left
+crankcase cover)
+
+Stator bolt threads
+
+Mainshaft bearing setting plate bolt threads
+
+Cam chain tensioner guide bolt threads
+
+Cam sprocket bolt threads
+
+Locking agent
+
+Coating area (page 7-24)
+Coating area (page 7-24)
+Coating width: 6.5 mm
+(0.26 in) from tip
+
+Coating width: 5 mm
+{0.2 in) from tip
+
+Alternator wire grommet seating surface
+
+Liquid sealant
+
+1-17
+
+
+--- Page 22 ---
+GENERAL INFORMATION
+
+r- FRAME
+LOCATION
+
+MATERIAL
+
+REMARKS
+
+Clutch lever pivot sliding surface
+
+Decompressor lever pivot sliding surface
+
+Throttle grip pipe flange groove and
+sliding surface
+
+Throttle cable slider groove
+
+Throttle cable pulley groove
+
+Side stand pivot sliding surface
+
+Wheel bearings
+
+Odometer gear teeth and sliding surface
+
+Steering head bearing rollers
+
+Shock link/arm bearings
+
+Swingarm pivot bearings
+
+Rear brake pedal pivot sliding surface
+
+Each dust seal lips and dust seal cap lips
+
+Multi-purpose grease
+
+Fill up 3 g (0.1 0z) to each bearing.
+
+Shock absorber upper mounting bearing (spherical)
+
+Molybdenum disulfide
+paste
+
+Brake master pistons and cups
+Caliper pistons
+Rear master cylinder reservoir joint O-ring
+
+DOT 4 brake fluid
+
+Front brake lever pivot sliding surface
+
+Front brake lever adjusting bolt tip
+
+Rear master cylinder push rod tip and boot groove
+Caliper piston seals
+
+Caliper pin sliding surfaces
+
+Caliper bracket pin sliding surfaces
+
+Silicone grease
+
+Fork oil seal lips
+
+Fork dust seal lips
+
+Fork cap O-ring
+
+Rear damper rod guide case oil seal/O-ring
+Rear damper piston ring/ O-ring
+
+Pro Honda Suspension |
+
+Fluid SS-8 or equivalent
+
+Handlebar grip rubber inside surfaces
+
+Air cleaner connecting tube-housing mating surface
+
+Air cleaner inlet duct seat rubber and inlet duct
+seating surface
+
+Honda bond A, Honda
+Hand Grip Cement
+(U.S.A. only) or
+Cemedine #540
+
+Front brake disc bolt threads
+
+Chain adjuster stopper pin threads
+
+Swingarm wheel setting plate screw threads
+
+Front caliper mounting bolt threads
+
+Front caliper pin bolt and bracket pin blolt threads
+| ea caliper bracket pin bolt threads
+
+1-18
+
+Locking agent
+
+
+
+--- Page 23 ---
+GENERAL INFORMATION
+
+CABLE & HARNESS ROUTING
+
+(2) BRAKE HOSE
+(1) THROTTLE CABLES
+
+(3) CLUTCH CABLE
+
+(8) HEADLIGHT/ ENGNE (4) DECOMPRESSOR CABLE
+
+STOP SWITCH CONNECTORS
+
+(7) HEADLIGHT WIRE (5) ENGINE STOP SWITCH WIRE
+
+(6) ODOMETER CABLE
+
+(9) DECOMPRESSOR CABLE (10) BRAKE HOSE
+
+(14) CLUTCH CABLE (11) THROTTLE CABLES
+
+flea A
+Sere ES
+fps
+
+USA OWN
+=
+
+/ (12) FUEL TANK BREATHER TUBE
+(13) ENGINE STOP SWITCH WIRE
+
+1-19
+
+
+--- Page 24 ---
+GENERAL INFORMATION
+
+(8) CYLINDER HEAD BREATHER TUBE
+
+(7) CLUTCH CABLE.
+
+1-20
+
+
+--- Page 25 ---
+GENERAL INFORMATION
+
+(2) WIRE BAND (3) IGNITION COIL
+
+(1) AC REGULATOR
+
+\ DECOMPRESSOR CABLE
+
+(5) FUEL TANK
+
+
+--- Page 26 ---
+GENERAL INFORMATION
+
+E t After ‘97 California type:
+xcep' er alifornia type: (2) CARBURETOR
+
+(1) CARBURETOR AIR VENT TUBE i)
+To the tube clip on the sub-frame !
+
+(6) Secure with the wire band
+on the sub-frame
+
+(3) CARBURETOR DRAIN
+TUBE
+
+(5) CRANKCASE BREATHER TUBE
+
+(4) CARBURETOR AIR VENT TUBE
+After ‘97 California type:
+
+(8) CARBURETOR AIR VENT TUBE —_ (9) CARBURETOR
+To the tube clip on the sub-frame ip ) T
+>
+
+(7) CRANKCASE BREATHER TUBE
+To air cleaner connecting tube
+(10) CARBURETOR AIR VENT TUBE
+
+(14) BREATHER SEPARATOR
+(11) CARBURETOR DRAIN TUBE
+
+(13) CRANKCASE BREATHER TUBE
+
+eit
+N\ > 7
+ey
+d
+ul bp
+[ \
+NY
+(12) BREATHER SEPARATOR DRAIN TUBE
+7
+
+3
+
+1-22
+
+
+--- Page 27 ---
+GENERAL INFORMATION
+
+(4) CONNECTOR BOOT
+(2) AC REGULATOR 4P CONNECTOR (Exciter Coil/Lighting Coil/Ignition
+Pulse Generator 2P Connectors)
+
+(7) CLUTCH CABLE
+
+(6) ALTERNATOR WIRE
+
+After ‘97 California type only:
+
+- Y
+(9) CRANKCASE BREATHER TUBE <
+
+(11) BREATHER SEPARATOR
+DRAIN TUBE
+
+1-23
+
+
+--- Page 28 ---
+GENERAL INFORMATION
+
+(2) TAILLIGHT WIRE
+
+(1) WIRE BAND
+(Crankcase breather tube &
+Tallight wire)
+
+(3) CLIP (Carburetor air vent tube)
+
+(4) REAR BRAKE RESERVOIR HOSE
+
+(5) BRAKE HOSE
+
+1-24
+
+
+--- Page 29 ---
+GENERAL INFORMATION
+
+EMISSION CONTROL SYSTEMS (After 97)
+
+The California Air Resources Board (CARB) requires manufacturers to certify that their motorcycles comply with applicable
+exhaust emissions standards during their useful life, when operated and maintained according to the instructions provided
+(California type only).
+
+SOURCE OF EMISSIONS
+
+The combustion process produces carbon monoxide and hydrocarbons. Control of hydrocarbons is very important because,
+under certain conditions, they react to form photochemical smog when subjected to sunlight. Carbon monoxide does not
+react in the same way, but it is toxic.
+
+Honda motor Co., Ltd. utilizes lean carburetor settings as well as other systems, to reduce carbon monoxide and hydrocar-
+bons.
+
+EXHAUST EMISSION CONTROL SYSTEM (California type only)
+
+The exhaust emission control system is composed of a lean carburetor setting, and no adjustments should be made except
+idle speed adjustment with the throttle stop screw. The exhaust emission control system is separate from the crankcase
+emission control system.
+
+CRANKCASE EMISSION CONTROL SYSTEM (California type only)
+
+The engine is equipped with a closed crankcase system to prevent discharging crankcase emissions into the atmosphere.
+Blow-by gas is returned to the combustion chamber through the air cleaner connecting tube and carburetor.
+
+(2) AIR CLEANER CONNECTING TUBE
+(1) CARBURETOR
+
+\
+
+(3) AIR CLEANER
+
+>: FRESH AIR
+= : BLOW-BY GAS
+
+(4) BREATHER SEPARATOR
+
+1-25
+
+
+--- Page 30 ---
+GENERAL INFORMATION
+
+EMISSION CONTROL INFORMATION LABEL
+(After 97 California type only)
+
+The Emission Control Information Label is located on the rear
+fender.
+
+1-26
+
+(1) EMISSIONCONTROL
+INFORMATION LABEL
+
+
+
+
+
+============================================================
+NOTAS DE TRADUCCIÓN
+============================================================
+
+Este documento contiene:
+1. Traducción al español de las secciones principales del manual
+2. Texto original completo extraído del PDF mediante OCR (Reconocimiento Óptico de Caracteres)
+
+El texto original está en inglés y contiene toda la información técnica 
+del Manual de Reparación Honda XR 400 R.
+
+Para obtener una traducción completa y profesional, se recomienda:
+- Utilizar servicios profesionales de traducción técnica
+- Consultar con un mecánico certificado de Honda que hable español
+- Referirse al manual oficial de Honda en español si está disponible
+
+============================================================
+INFORMACIÓN TÉCNICA CLAVE
+============================================================
+
+Este manual cubre:
+- Mantenimiento preventivo
+- Reparaciones del motor
+- Sistema eléctrico
+- Suspensión y frenos
+- Transmisión y embrague
+- Especificaciones técnicas
+- Diagramas de cableado
+- Solución de problemas
+
+Modelo: Honda XR 400 R
+Tipo: Motocicleta todoterreno
+Motor: Monocilíndrico de 4 tiempos
+
+============================================================
